@@ -2,6 +2,8 @@
 .env
 secrets.json
 config.json
+credentials.json
+token.json
 
 # Output files (keep the module code: output/__init__.py, output/markdown.py)
 output/*.md

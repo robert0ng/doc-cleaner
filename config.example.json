@@ -28,6 +28,11 @@
     "frontmatter": true
   },
   "strip_urls": true,
+  "gmail": {
+    "sender": "noreply@example.com",
+    "subject": "statement",
+    "output": "download/bank_name/"
+  },
   "ad_truncation_patterns": [
     "<投資人權益通知訊息[ >]",
     "[～~]\\s*總\\s*公\\s*司\\s*訊\\s*息\\s*[～~]",
