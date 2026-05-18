@@ -1,0 +1,12 @@
+# GitHub Pages configuration
+theme: jekyll-theme-primer
+
+# Plugins
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+
+# Site settings
+title: Doc Cleaner
+description: 結構化文件轉 Markdown —— 支援 PDF、DOCX、XLSX、PPTX、PPT、DOC、DXF、純文字。中文友好、表格保留、隱私優先。
